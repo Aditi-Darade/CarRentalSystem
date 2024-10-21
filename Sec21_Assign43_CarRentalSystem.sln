@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sec21_Assign43_CarRentalSystem", "Sec21_Assign43_CarRentalSystem\Sec21_Assign43_CarRentalSystem.csproj", "{2524FE1E-D829-4957-B697-436B031B7F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{4F4ECD4D-4D2F-4F54-B1D1-44F210C0F67F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2524FE1E-D829-4957-B697-436B031B7F8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2524FE1E-D829-4957-B697-436B031B7F8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2524FE1E-D829-4957-B697-436B031B7F8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2524FE1E-D829-4957-B697-436B031B7F8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4ECD4D-4D2F-4F54-B1D1-44F210C0F67F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4ECD4D-4D2F-4F54-B1D1-44F210C0F67F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4ECD4D-4D2F-4F54-B1D1-44F210C0F67F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4ECD4D-4D2F-4F54-B1D1-44F210C0F67F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE6ADC17-240B-43C8-B17A-EC72A21F889C}
+	EndGlobalSection
+EndGlobal
